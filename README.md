@@ -1,2 +1,3 @@
-# syntastic-jsxcs-checker
-JSXCS checker for syntastic
+# Introduction
+
+JSXCS checker for syntastic.
